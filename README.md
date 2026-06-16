@@ -1,6 +1,6 @@
 # Fitted Solar-Reflected Dark Matter Spectra
 
-Parameters of fitted curves of normalized solar-reflected dark matter (SRDM) spectra. The curves are fitted from the Monte-Carlo-simulated SRDM spectra in the paper [Solar reflection of dark matter] (https://arxiv.org/abs/2108.10332).
+Parameters of fitted curves of normalized solar-reflected dark matter (SRDM) spectra. The curves are fitted from the Monte-Carlo-simulated SRDM spectra in the paper [Solar reflection of dark matter] (https://arxiv.org/abs/2108.10332). If you use these fitted spectra, please cite this paper.
 
 Contact: Haipeng An (anhp@mail.tsinghua.edu.cn) and Haoming Nie (nhm20@mails.tsinghua.edu.cn)
 
@@ -24,6 +24,6 @@ The results are summarized in the file SRDM_contact_fit.dat. The columns represe
 
 For DM coupled with electrons by a light mediator (for example, the dark photon), we fit the curves with formulae
 
-$F_{A_\rho}(E_\chi) = A (E_\chi/100\,\text{eV})^{-\alpha} \exp(-E_\chi/E_c).$
+$F_{A_\rho}(E_\chi) = A (E_\chi/100\text{eV})^{-\alpha} \exp(-E_\chi/E_c).$
 
 The results are summarized in the file SRDM_light_fit.dat. The colums represent (DM masses $m_\chi$ [MeV], $\kappa e_D$, $A$, $E_c$ [eV], $\alpha$), where $\kappa$ is the dark photon kinetic mixing parameter, and $e_D$ is the dark charge of DM. The reference cross section $\bar{\sigma}$ is related to $\kappa e_D$ by $\bar{\sigma}=\kappa^2 e_D^2 e^2 \mu_e^2/\pi(q_0^2+m_V^2)^2$, where $\mu_e$ is the reduced mass of the DM particle and the electron, $m_V$ is the mass of the dark photon, and $q_0=\alpha_{\text{EM}} m_e$ is a reference momentum transfer. The fits are valid for $E_\chi > \frac{1}{2} m_\chi (0.000733 c)^2$ and $E_\chi$ > 10 eV
