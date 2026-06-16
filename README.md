@@ -24,6 +24,6 @@ The results are summarized in the file SRDM_contact_fit.dat. The columns represe
 
 For DM coupled with electrons by a light mediator (for example, the dark photon), we fit the curves with formulae
 
-$F_{A_\rho}(E_\chi) = A (E_\chi/100 eV)^{-\alpha} exp(-E_\chi/E_c).$
+$F_{A_\rho}(E_\chi) = A (E_\chi/100 eV)^{-\alpha} \exp(-E_\chi/E_c).$
 
-The results are summarized in the file SRDM_light_fit.dat. The colums represent (DM masses $m_\chi$ [MeV], $\kappa e_D$, $A$, $E_c$ [eV], $\alpha$), where $\kappa$ is the dark photon kinetic mixing parameter, and $e_D$ is the dark charge of DM. The reference cross section is related to $\kappa e_D$ by $\kappa^2 e_D^2 e^2 \mu_e^2/\pi(q_0^2+m_V^2)^2$, where $\mu_e$ is the reduced mass of the DM particle and the electron, $m_V$ is the mass of the dark photon, and $q_0=\alpha_{\text{EM}} m_e$ is a reference momentum transfer. The fits are valid for $E_\chi > \frac{1}{2} m_\chi (0.000733 c)^2$ and $E_\chi$ > 10 eV
+The results are summarized in the file SRDM_light_fit.dat. The colums represent (DM masses $m_\chi$ [MeV], $\kappa e_D$, $A$, $E_c$ [eV], $\alpha$), where $\kappa$ is the dark photon kinetic mixing parameter, and $e_D$ is the dark charge of DM. The reference cross section $\bar{\sigma}_{\chi e}$ is related to $\kappa e_D$ by $\bar{\sigma}_{\chi e}=\kappa^2 e_D^2 e^2 \mu_e^2/\pi(q_0^2+m_V^2)^2$, where $\mu_e$ is the reduced mass of the DM particle and the electron, $m_V$ is the mass of the dark photon, and $q_0=\alpha_{\text{EM}} m_e$ is a reference momentum transfer. The fits are valid for $E_\chi > \frac{1}{2} m_\chi (0.000733 c)^2$ and $E_\chi$ > 10 eV
